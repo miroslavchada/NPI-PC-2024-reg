@@ -1,0 +1,17 @@
+D:\source\Semafor\bin\Debug\net8.0-windows\Semafor.exe
+D:\source\Semafor\bin\Debug\net8.0-windows\Semafor.deps.json
+D:\source\Semafor\bin\Debug\net8.0-windows\Semafor.runtimeconfig.json
+D:\source\Semafor\bin\Debug\net8.0-windows\Semafor.dll
+D:\source\Semafor\bin\Debug\net8.0-windows\Semafor.pdb
+D:\source\Semafor\obj\Debug\net8.0-windows\Semafor.Form1.resources
+D:\source\Semafor\obj\Debug\net8.0-windows\Semafor.Properties.Resources.resources
+D:\source\Semafor\obj\Debug\net8.0-windows\Semafor.csproj.GenerateResource.cache
+D:\source\Semafor\obj\Debug\net8.0-windows\Semafor.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Semafor\obj\Debug\net8.0-windows\Semafor.AssemblyInfoInputs.cache
+D:\source\Semafor\obj\Debug\net8.0-windows\Semafor.AssemblyInfo.cs
+D:\source\Semafor\obj\Debug\net8.0-windows\Semafor.csproj.CoreCompileInputs.cache
+D:\source\Semafor\obj\Debug\net8.0-windows\Semafor.dll
+D:\source\Semafor\obj\Debug\net8.0-windows\refint\Semafor.dll
+D:\source\Semafor\obj\Debug\net8.0-windows\Semafor.pdb
+D:\source\Semafor\obj\Debug\net8.0-windows\Semafor.genruntimeconfig.cache
+D:\source\Semafor\obj\Debug\net8.0-windows\ref\Semafor.dll

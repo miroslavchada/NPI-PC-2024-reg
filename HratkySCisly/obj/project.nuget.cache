@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A4IVYxr/GNieMbVslG3Oq1pHlWl62TQRhkPMGtvpWZBKZaVq6mzUKaKqcfzDy9eAJhFVX3cMEP4Vsv+C0JG7tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miros\\OneDrive\\Plocha\\HratkySCisly\\HratkySCisly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miros\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\miros\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\miros\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
