@@ -1,0 +1,10 @@
+Požadované součástky pro KK soutěže v programování 2023/2024 - kategorie mcu
+
+•	1x I2C/SPI LCD diplej (alfanumerický/grafický)
+•	4x vícebarevné LED (modrá, zelená, žlutá, červená)
+•	4x tlačítko
+•	1x potenciometr/trimr
+•	1x piezoelektrický měnič
+•	Další potřebné součástky pro připojení
+
+
